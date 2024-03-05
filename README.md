@@ -16,8 +16,8 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
+- **Name: Rorisang Masilo**
+- **Date: **
 - **Current Role/Position:**
 - **Field of Interest:**
 
@@ -46,13 +46,22 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    
     - List your specific, measurable, achievable, relevant, and time-bound goals.
     - Explain the rationale behind each goal.
+    - To complete the CodeSpace Academy in record time and graduate Cum Laude, for my pride and joy, as well as being appealing to employers.
+    - Apply for software engineering entry-level jobs, to ensure that I am put in front of employers and recruiters or hiring managers.
+    - Continue absorbing new courses relevant to the positions I am trying to achieve in the long run such as CISCO's Cyber Security course, IBM courses and etc.
+    - Form a network of software engineers from LinkedIn and GitHub from various industries and companies, specifically within my interests such, Fintech (Investec), Health (Discovery), Tech (Altron), Motor (BMW IT Hub), Consulting (McKinsey or Accenture), etc for my career elevation and improving my i.
+    - Connect with various recruitment houses that have accessibility to major companies, where they may perform the task of a TES (Temporary Employment Service provider).
+    - Grow as an individual, monthly challenge my character to do something unusual or engage with individuals that I would not normally engage with. Learning or re-engineering my character (continuous goal/improvement cycle).
+    - Possibly pursue my MBA at UCT Graduate School of Business
+    
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
     - Describe how these align with your interests and skills.
+    - To try attain a managerial role and pursue my MBA at the international institution of my choice (Plan B to Plan A in short-term goals).
+    - 
 
 ### Part 4: Action Plan
 
@@ -60,6 +69,7 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Detail specific actions or steps needed to achieve each short-term goal.
     - Include any resources or support required.
+    - Build and improve my engagements on LinkedIn and GitHub
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
