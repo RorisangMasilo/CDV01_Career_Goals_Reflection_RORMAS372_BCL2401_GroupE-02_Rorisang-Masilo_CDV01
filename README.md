@@ -1,97 +1,84 @@
 
-# Career Goals Reflection Template
+# Career Goals Reflection
 
-### Introduction to the Template
+### Introduction
 
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
+This "Career Goals Reflection" is designed to assist in articulating and structuring thoughts about career aspirations. Clearly define goals, understand motivations, and outline the steps planned to take to achieve these goals.
 
 ### Personal Information
 
 - **Name: Rorisang Masilo**
-- **Date: **
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Date: 05 March 2023**
+- **Current Role/Position: Software Engineer (Student)**
+- **Field of Interest: Fintech, Organisational Management**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - Skills: Human resources management, business administration, positive team player.
+    - All my skills as a competent software engineer, the tech lanaguages that a full stack engineer has to master.
+      
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - Career-related key interests: Organisational management (tool), fintech (as a former financial planner, people need fintech apps that can motivate their financial discipline).
+    - Work environment values: A relatable vision and mission, diversity, good work ethics, health team management, good culture and career development/succession. 
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Industries: Electric Motor industry, Fintech, Health, Consulting, Technology, Human Resources/Organisational Management.
+    - Roles: Software Developer/Engineer, Full Stack Developer/Engineer, Front-End Developer/Engineer
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - These industries and interests align with my past work experience and with my professional preferences.
 
 ### Part 3: SMART Career Goals
 
 1. **Short-term Goals** (Next 1-2 years):
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+   
     - To complete the CodeSpace Academy in record time and graduate Cum Laude, for my pride and joy, as well as being appealing to employers.
     - Apply for software engineering entry-level jobs, to ensure that I am put in front of employers and recruiters or hiring managers.
     - Continue absorbing new courses relevant to the positions I am trying to achieve in the long run such as CISCO's Cyber Security course, IBM courses and etc.
     - Form a network of software engineers from LinkedIn and GitHub from various industries and companies, specifically within my interests such, Fintech (Investec), Health (Discovery), Tech (Altron), Motor (BMW IT Hub), Consulting (McKinsey or Accenture), etc for my career elevation and improving my i.
     - Connect with various recruitment houses that have accessibility to major companies, where they may perform the task of a TES (Temporary Employment Service provider).
     - Grow as an individual, monthly challenge my character to do something unusual or engage with individuals that I would not normally engage with. Learning or re-engineering my character (continuous goal/improvement cycle).
-    - Possibly pursue my MBA at UCT Graduate School of Business
+    - Possibly pursue my MBA at UCT Graduate School of Business and board membership course to pursue managerial tech roles and board memberships.
     
-2. **Long-term Goals** (3-5 years and beyond):
+3. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
     - To try attain a managerial role and pursue my MBA at the international institution of my choice (Plan B to Plan A in short-term goals).
-    - 
+    - Attain CISCO certifications to develop a career in cyber security.
+    - Attain certifications in AWS for the progression of my career.
+    - Attain a board memebership
+    - Consistently grow as an individual in various personal roles.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
     - Build and improve my engagements on LinkedIn and GitHub
+    - Register myself for additional online courses (CISCO, IBM, Coursera, FreeCodeCamp).
+    - Engage with hiring managers and recruitment agencies.
+      
 2. **Preparation for Long-term Goals**:
-    
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+   
+    - Obtain employment in a major reputable company and create my on corporate ladder
+    - Launch a tech consulting company with colleagues
+    - Engage regularly on various platforms (get myself in front the right people).
+    - Attend conferences and seminars regularly.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Character flaws or habits, unexpected circumstances
+    - Strategies: Habit management, accountability partners, vision boards, spiritual life management, maintain a "keep it moving, a moving target is harder to shoot" attitude.
+      
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
-
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+    - Networking on various platforms and collaborations on GitHub with various individuals and colleagues. As well as showcasing or launching projects or app to attain Google developer certification.
 
 
