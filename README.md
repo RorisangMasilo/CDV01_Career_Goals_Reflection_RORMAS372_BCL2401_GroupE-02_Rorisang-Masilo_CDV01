@@ -52,7 +52,7 @@ This "Career Goals Reflection" is designed to assist in articulating and structu
     - To try attain a managerial role and pursue my MBA at the international institution of my choice (Plan B to Plan A in short-term goals).
     - Attain CISCO certifications to develop a career in cyber security.
     - Attain certifications in AWS for the progression of my career.
-    - Attain a board memebership
+    - Attain a board membership
     - Consistently grow as an individual in various personal roles.
 
 ### Part 4: Action Plan
